@@ -1,4 +1,4 @@
-#   Dentist Appointment Scheduler Full-Stack Website using Node.js and MySQL
+#   Dentist Appointment Scheduler: Full-Stack Node.js and MySQL Website
 
 ## Website: https://group8-nodejs-mysql-project.herokuapp.com/
 
